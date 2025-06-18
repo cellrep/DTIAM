@@ -14,3 +14,6 @@ data/moa/inhibition/data_folds/
 data/moa/inhibition/features/
 models/
 results/
+*.pkl
+*.egg-info/
+__pycache__/
