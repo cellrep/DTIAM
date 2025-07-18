@@ -1,3 +1,5 @@
+aws s3 sync /home/julian/DTIAM/code/AutogluonModels s3://cellrep-dev/DTIAM/autogluon-models/
+
 ## DTIAM: A unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms
 
 Official implementation of DTIAM, a unified framework for predicting drug-target interactions, binding affinities and activation/inhibition mechanisms, by Zhangli Lu. Please contact me if you are interested in my work and look for academic collaboration (Email: luzhangli@csu.edu.cn).
